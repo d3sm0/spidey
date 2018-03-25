@@ -1,3 +1,3 @@
-## Learning to crawl from the an ant model to the real world
+## Learning to crawl the model to the real world
 
 WIP...
